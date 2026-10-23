@@ -1,0 +1,2 @@
+The Traffic Light Signal Control System is a microcontroller-based simulation project developed using the 8051 microcontroller. It demonstrates the basic working principle of a traffic signal by controlling Red, Yellow, and Green lights in a predefined sequence with appropriate time delays.
+This project helps in understanding embedded C programming, digital input/output control, timing operations, and microcontroller-based system simulation.
